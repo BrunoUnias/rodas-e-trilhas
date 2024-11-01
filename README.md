@@ -13,8 +13,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-![Static Badge](https://img.shields.io/badge/license-MIT-blue) 
-![Static Badge](https://img.shields.io/badge/forks-0-green)
+
 
 
 ### Status do Projeto
@@ -31,3 +30,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [css](https://www.w3.org/Style/CSS/Overview.en.html)
 - [javascript](https://www.javascript.com/)
 
+### Contribuições
+
+![Static Badge](https://img.shields.io/badge/forks-0-green)
+
+### Licença
+
+![Static Badge](https://img.shields.io/badge/license-MIT-blue) 

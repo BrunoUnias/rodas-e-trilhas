@@ -37,3 +37,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Licença
 
 ![Static Badge](https://img.shields.io/badge/license-MIT-blue) 
+
+### Autor
+Bruno Unias

@@ -17,6 +17,19 @@
 ![Static Badge](https://img.shields.io/badge/forks-0-green)
 
 
+### Status do Projeto
+
+<h4 align="center"> 
+	🚧  🚀 Em construção...  🚧
+</h4>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [html](https://www.w3.org/html/)
+- [css](https://www.w3.org/Style/CSS/Overview.en.html)
+- [javascript](https://www.javascript.com/)
 
 
 ### 🛠 Tecnologias

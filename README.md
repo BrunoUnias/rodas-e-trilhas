@@ -31,11 +31,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [css](https://www.w3.org/Style/CSS/Overview.en.html)
 - [javascript](https://www.javascript.com/)
 
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [html](https://www.w3.org/html/)
-- [css](https://www.w3.org/Style/CSS/Overview.en.html)
-- [javascript](https://www.javascript.com/)

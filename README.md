@@ -15,7 +15,7 @@
 
 
 
-### ![icons8-alvo-16](https://github.com/user-attachments/assets/4cd3dbb8-91cb-434a-9df2-77885acb6d34)  Objetivo
+### ![icons8-alvo-16](https://github.com/user-attachments/assets/4cd3dbb8-91cb-434a-9df2-77885acb6d34) ### Objetivo
 
 ### Status do Projeto
 

@@ -1,5 +1,3 @@
-![alt text](src/image/slw.png)
-
 # Rodas e Trilhas
 
 # descrição
